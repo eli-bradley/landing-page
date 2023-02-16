@@ -1,0 +1,144 @@
+.header {
+background-color: black;
+height: 150px;
+}
+
+.container-1 {
+display: flex;
+background-color: #1F2937;
+height: 380px;
+justify-content: center;
+justify-content: space-evenly;
+}
+
+.item-1 {
+background-color: #1F2937;
+height: 310px;
+width: 350px;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+color: white;
+}
+
+.item-2 {
+background-color: #3882F6;
+height: 25px;
+width: 100px;
+border-radius: 9px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+
+
+.item-3 {
+background-color: #1F2937;
+height: 310px;
+width: 350px;
+display: flex;
+flex-direction: column;
+color: white;
+justify-content:center;
+align-items:left;
+}
+
+.box-1 {
+display: flex;
+justify-content: space-between;
+align-items: right;
+margin-bottom: 100px;
+}
+
+.box-2 {
+background-color: darkgray;
+height: 200px;
+width: 350px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+
+.container-2 {
+display:flex;
+flex-direction: column;
+background-color: white;
+height: 380px;
+}
+
+.item-4 {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.item-5 {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.box-3 {
+background-color: white;
+height: 210px;
+width: 210px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: black;
+}
+
+.box-4 {
+background-color: white;
+height: 210px;
+width: 210px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: black;
+}
+
+.box-5 {
+background-color: white;
+height: 210px;
+width: 210px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: black;
+}
+
+.box-6 {
+background-color: white;
+height: 210px;
+width: 210px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: black;
+}
+
+.square {
+background-color: white;
+height: 175px;
+width: 175px;
+border-radius: 25px;
+border: 4px solid #3882F6;
+}
+
+.container-3 {
+background-color: #E5E7EB;
+height: 320px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 36px;
+font-style: italic;
+}
